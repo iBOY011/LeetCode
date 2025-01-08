@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/iBOY011/LeetCode/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/iBOY011/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
