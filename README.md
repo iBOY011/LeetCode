@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iBOY011/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/iBOY011/LeetCode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/iBOY011/LeetCode/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/iBOY011/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
