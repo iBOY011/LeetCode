@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0056-merge-intervals](https://github.com/iBOY011/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iBOY011/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/iBOY011/LeetCode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/iBOY011/LeetCode/tree/master/0056-merge-intervals) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
