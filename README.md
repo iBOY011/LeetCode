@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
