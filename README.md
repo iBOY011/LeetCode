@@ -15,6 +15,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iBOY011/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/iBOY011/LeetCode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/iBOY011/LeetCode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/iBOY011/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/iBOY011/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/iBOY011/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iBOY011/LeetCode/tree/master/0057-insert-interval) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/iBOY011/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
