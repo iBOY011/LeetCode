@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@
 | [0010-regular-expression-matching](https://github.com/iBOY011/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/iBOY011/LeetCode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
@@ -46,6 +49,7 @@
 | [0057-insert-interval](https://github.com/iBOY011/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/iBOY011/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +84,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iBOY011/LeetCode/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
