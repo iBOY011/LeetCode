@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/iBOY011/LeetCode/tree/master/0155-min-stack) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/iBOY011/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
