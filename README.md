@@ -35,6 +35,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/iBOY011/LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0056-merge-intervals](https://github.com/iBOY011/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iBOY011/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/iBOY011/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/iBOY011/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 ## Two Pointers
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/iBOY011/LeetCode/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iBOY011/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
