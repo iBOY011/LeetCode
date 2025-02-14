@@ -11,6 +11,7 @@
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/iBOY011/LeetCode/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/iBOY011/LeetCode/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0078-subsets](https://github.com/iBOY011/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/iBOY011/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
+| [0500-keyboard-row](https://github.com/iBOY011/LeetCode/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
