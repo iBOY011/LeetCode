@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iBOY011/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iBOY011/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/iBOY011/LeetCode/tree/master/0500-keyboard-row) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/iBOY011/LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iBOY011/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/iBOY011/LeetCode/tree/master/0031-next-permutation) |
 ## Math
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iBOY011/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iBOY011/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
