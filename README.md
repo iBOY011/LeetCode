@@ -12,6 +12,7 @@
 | [0020-valid-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iBOY011/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iBOY011/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/iBOY011/LeetCode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/iBOY011/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/iBOY011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/iBOY011/LeetCode/tree/master/0500-keyboard-row) |
